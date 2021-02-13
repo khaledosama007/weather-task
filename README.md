@@ -20,9 +20,9 @@ The android app lets you:
 [<img src="/readme/screen1.jpg" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/screen1.jpg)
-[<img src="/readme/screen2.jpg" align="center"
+[<img src="/readme/screen2" align="center"
 width="200"
-    hspace="10" vspace="10">](/readme/screen2.jpg)
+    hspace="10" vspace="10">](/readme/screen2)
 
 ## Permissions
 
