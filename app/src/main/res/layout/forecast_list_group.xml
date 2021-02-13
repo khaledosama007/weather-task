@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="@dimen/dimen_16"
+    android:layout_marginBottom="@dimen/dimen_16"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/forecast_group_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+        android:textSize="@dimen/textSize_21sp"
+        android:text="Header"
+        android:layout_marginStart="@dimen/dimen_8"
+        android:layout_marginTop="@dimen/dimen_8"
+        android:layout_marginEnd="@dimen/dimen_8"
+        android:textColor="@color/black1" />
+</androidx.constraintlayout.widget.ConstraintLayout>
